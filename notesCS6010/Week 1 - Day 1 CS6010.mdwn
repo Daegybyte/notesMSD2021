@@ -1,0 +1,3 @@
+##Week 1 - Day 1
+### The Terminal
+Uses the command line interface (CLI) to navigate file tree on computer
