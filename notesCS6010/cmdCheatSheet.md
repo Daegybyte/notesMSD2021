@@ -4,6 +4,8 @@
 ```pwd``` - (Present Working Directory) see your current folder and branch from root 
 ```ls``` - displays name of files in a directory
 ```ls -a``` - lists all entries in a directory
+```ls -l``` - long list
+```ls -g``` - shows colours
 ```ls desktop``` - displays what is on the desktop
 ```cat``` <file> - print the contents of a file into terminal
 ```head <file>``` - prints the first 10 lines
